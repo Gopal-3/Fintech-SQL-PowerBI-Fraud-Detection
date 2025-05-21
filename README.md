@@ -31,7 +31,28 @@ It covers:
 - **No personally identifiable information (PII)** included
 
 ---
+## ❓ Business Questions Solved
 
+This project was designed to address the following real-world fintech and fraud risk challenges:
+
+1. **What percentage of credit card transactions are fraudulent?**  
+   Helps measure the baseline fraud risk in the dataset.
+
+2. **At what times of day is fraud most likely to occur?**  
+   Enables banks to optimize fraud monitoring during high-risk hours.
+
+3. **How does fraud distribution vary across transaction amounts?**  
+   Identifies high-risk transaction brackets for alert systems or manual review.
+
+4. **Can we create a dashboard that provides real-time fraud insights?**  
+   Delivers a visual tool for fraud analysts and business stakeholders.
+
+5. **What are the key KPIs to track for fraud monitoring?**  
+   Provides summary metrics for leadership and compliance teams.
+
+🎯 These questions map directly to **fraud risk prevention**, **resource allocation**, and **business intelligence optimization**.
+
+---
 ## 🛠️ Tools Used
 
 - **SQL** (PostgreSQL)
